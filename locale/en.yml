@@ -1,0 +1,15 @@
+mattoid-money-history-auto:
+  admin:
+    private-chats-are-not-rewarded-requirement: "Private chat channels do not have rewards or penalties."
+    private-chats-are-not-rewarded: "Private chat channels do not have rewards or penalties."
+  forum:
+    checkin-saved: "Sign in reward"
+    discussion-was-started: "Posting rewards"
+    post-was-posted: "Reply rewards"
+    post-was-liked: "Received likes and received rewards"
+    post-was-unliked: "Cancel like"
+    discussion-was-deleted: "Delete post deduction"
+    post-was-deleted: "Delete reply and deduct fees"
+    system-rewards: "System rewards"
+    admin-rewards: "Administrators distribute rewards"
+    searching-recipient: "transfer accounts"
